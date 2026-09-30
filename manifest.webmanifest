@@ -1,0 +1,23 @@
+{
+  "name": "CSC Bir Sujra — Digital Assistance Center",
+  "short_name": "CSC Bir Sujra",
+  "description": "Online forms, documents and digital service assistance in Bir Sujra and nearby areas.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f5ee",
+  "theme_color": "#071b31",
+  "icons": [
+    {
+      "src": "/assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

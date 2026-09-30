@@ -1,0 +1,31 @@
+GOOGLE ADS WEBSITE AUDIT RESULT
+Date: 6 July 2026
+
+AUTOMATED TECHNICAL CHECKS
+- HTML pages checked: 41
+- Local links/assets checked: 2682
+- JSON-LD blocks parsed: 79
+- Unique HTTPS canonical URLs: 41
+- Errors: 0
+- Warnings: 0
+
+RESULT
+PASS: No automated technical/compliance-content errors or warnings found.
+
+CHANGES INCLUDED
+- Prominent independent-service / not-government disclosure on every page.
+- No approval or delivery guarantee claims.
+- Separate Privacy, Terms, Pricing, Payment and Advertising Disclosure pages.
+- Sensitive ID, banking credential, PIN, password and OTP warnings.
+- Safer ad landing page: /ads/local-digital-services.html
+- Phone visible as text in E.164-compatible source format.
+- Government-document and India financial-services verification warnings.
+
+MANUAL REQUIREMENTS (CANNOT BE SOLVED BY WEBSITE CODE)
+1. Complete Google Advertiser Verification when requested.
+2. Government-document/service ads may require Government Documents and Services certification.
+3. Banking/insurance/financial keyword ads in India may require Financial Services Verification.
+4. Only claim authorization that can be proven with current official records.
+5. Deploy on HTTPS and use the same final/display domain without cross-domain redirects.
+6. Review actual service availability, prices and authorization before every campaign.
+7. Google makes the final ad/account approval decision; website compliance cannot guarantee approval.

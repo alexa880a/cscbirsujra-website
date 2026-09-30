@@ -1,0 +1,25 @@
+CSC Bir Sujra — AdSense Readiness Audit (6 July 2026)
+
+IMPLEMENTED
+[PASS] AdSense stays disabled until valid ca-pub ID is configured.
+[PASS] No Google ad request is made on production before configuration.
+[PASS] Localhost-only responsive ad previews.
+[PASS] Manual slots limited to content-rich Home and Blog pages.
+[PASS] Ads excluded from Privacy, Terms, Contact, 404, pricing/refund and paid-ad landing page.
+[PASS] Clear “Advertisement” label only.
+[PASS] Spacing from navigation, call/WhatsApp, form and CTA controls.
+[PASS] ads.txt safe placeholder plus automated setup.
+[PASS] Advertising & Cookie Policy and Privacy update.
+[PASS] Referrer policy compatible with Google Privacy & Messaging.
+[PASS] PowerShell setup helper validates Publisher ID and Slot IDs.
+
+OWNER ACTION REQUIRED
+[WAIT] Site must be live, navigable and approved in Google AdSense.
+[WAIT] Replace stock/AI-like generic content with real experience and original shop photos where possible.
+[WAIT] Create Google-certified CMP message in AdSense Privacy & Messaging.
+[WAIT] Create responsive ad units and run setup-adsense.ps1.
+[WAIT] Verify https://cscbirsujra.in/ads.txt after deployment.
+[WAIT] Never click own ads or use incentivized/invalid traffic.
+
+NOTE
+Code readiness does not guarantee AdSense approval. Google reviews the live site, content quality, ownership, account, traffic and policy compliance.
